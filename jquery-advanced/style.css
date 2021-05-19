@@ -1,0 +1,12 @@
+form{
+    margin-top: 2em;
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+.error{
+    color: red;
+}
+.card{
+    margin: auto;
+}
